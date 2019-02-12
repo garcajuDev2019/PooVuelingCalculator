@@ -1,0 +1,1 @@
+2019-02-12 09:09:43,695 ERROR [NonParallelWorker] PooVueling.Calculadora - Intento de dividir por cero.
